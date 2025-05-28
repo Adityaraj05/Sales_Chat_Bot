@@ -61,7 +61,8 @@ http://127.0.0.1:5000/
 
 ### 🔍 Homepage
 
-![Homepage](image.png)
+![image (1)](https://github.com/user-attachments/assets/d9b5e255-3ea0-45c8-af23-6ca16e5fe1cb)
+
 
 ---
 
@@ -80,7 +81,8 @@ Ask natural language queries like:
 
 Auto-generated plots from your queries!
 
-![Visualization](plot.png)
+![plot](https://github.com/user-attachments/assets/0c7d4862-b1ae-4a07-8924-8ff56999f084)
+
 
 ---
 
