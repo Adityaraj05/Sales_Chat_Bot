@@ -56,7 +56,9 @@ http://127.0.0.1:5000/
 ---
 
 ## 🖼️ Screenshots
-![homepage](image.png)
+![image](https://github.com/user-attachments/assets/55bebe27-0680-4dc8-8c9a-63b7eec127a4)
+
+
 ### 🔍 Homepage
 
 ![Homepage](image.png)
