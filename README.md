@@ -59,7 +59,7 @@ http://127.0.0.1:5000/
 ![homepage](image.png)
 ### 🔍 Homepage
 
-![https://github.com/adityasingh0912/Sales_Bot/blob/main/image.png?raw=true])
+![Homepage](image.png)
 
 ---
 
